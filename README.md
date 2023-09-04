@@ -1,3 +1,5 @@
+NOTE: This is a backup clone repository of original BCR project.
+
 # Basic Call Recorder
 
 <img src="app/images/icon.svg" alt="app icon" width="72" />
